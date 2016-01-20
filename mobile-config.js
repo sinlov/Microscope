@@ -13,7 +13,7 @@ App.info({
 });
 App.accessRule("*");
 App.setPreference('StatusBarOverlaysWebView', 'true');
-App.setPreference('StatusBarBackgroundColor', '#AA333333');
+App.setPreference('StatusBarBackgroundColor', '#004DFF');
 App.setPreference('Orientation', 'portrait');
 
 App.icons({
